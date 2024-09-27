@@ -3,5 +3,9 @@ fitur1
 fitur2
 fitur3
 fitur4
+<<<<<<< HEAD
 fitur6
+=======
+fitur5
+>>>>>>> origin/main
 
