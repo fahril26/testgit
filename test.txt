@@ -1,3 +1,0 @@
-main
-fitur1
-fitur2
